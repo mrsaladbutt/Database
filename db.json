@@ -1,16 +1,18 @@
 {
-  "posts":[
+  "todos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": "sZPrCcpD5u",
+      "title": "title 1",
+      "description": "lorem ipsum dolor",
+      "checked": false,
+      "creationDate": "03.05.2024"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "pG7DkGlxSt",
+      "title": "title 2",
+      "description": "lorem ipsum dolor",
+      "checked": false,
+      "creationDate": "03.05.2024"
     }
   ]
 }
