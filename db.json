@@ -14,5 +14,12 @@
       "checked": false,
       "creationDate": "03.05.2024"
     }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "username": "Olexii",
+      "email": "saladbutt@email.ua"
+    }
   ]
 }
